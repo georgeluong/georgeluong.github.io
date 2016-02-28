@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: luong.george
 locale: en_US
-description: Describe your website here.
+description: I fix things, which I probably broke, while I was trying to fix things.
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -48,15 +48,15 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: George Luong
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:
   twitter: #username
   facebook: #username
-  github: #username
+  github: georgeluong
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: george-luong-2931a830
   instagram: #username
   flickr: #username
   tumblr: #username
