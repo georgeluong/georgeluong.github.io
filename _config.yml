@@ -5,7 +5,7 @@ locale: en_US
 description: I fix things, which I probably broke, while I was trying to fix things.
 logo: site-logo.png
 search: true
-url: http://georgeluong.github.io
+url: https://georgeluong.github.io
 
 # Jekyll configuration
 
