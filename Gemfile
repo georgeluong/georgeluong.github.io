@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-rub '2.4.0'
+ruby '2.4.0'
 
 gem "jekyll", "~> 3.0"
 gem "jekyll-sitemap"
