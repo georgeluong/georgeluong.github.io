@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+excerpt: ""
 modified: 2017-07-23T17:30:38.564948-08:00
 image:
   feature: so-simple-sample-image-4.jpg
