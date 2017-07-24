@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 excerpt: "Experiences"
-search_omit: false
+search_omit: true
 ---
 
 # Coming soon
