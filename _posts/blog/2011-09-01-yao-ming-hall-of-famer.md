@@ -13,7 +13,6 @@ date: 2011-09-01T08:08:50-08:00
 	<a href="{{ site.url }}/images/yao-ming-002.jpg"><img src="{{ site.url }}/images/yao-ming-002.jpg" alt="image"></a>
 	<figcaption><a href="http://asiasociety.org/texas/events/courtside-yao-ming-conversation" title="http://asiasociety.org/texas/events/courtside-yao-ming-conversation">Yao Ming, courtesy of asiasociety.org</a>.</figcaption>
 </figure>
-
 As you may know, Yao Ming [announced his retirement](http://www.espn.com/nba/news/story?id=6749511) earlier this summer, ending his nine season career in the NBA. Though [immensely talented and gifted](https://www.youtube.com/watch?v=htm7b_saqcs), his body simply could not withstand the rigors of the needlessly long NBA season.
 
 His potential to dominate the NBA was undermined by numerous injuries. Make no mistake, when healthy, Yao Ming [did dominate the opposition](https://www.youtube.com/watch?v=Xv47nwzmsvA). His imposing 7’6 frame, synergized with his unsurpassed work ethic, earned him the respect of his peers – most notably, [the respect of Shaquille O’Neal](https://www.youtube.com/watch?v=tjP0806a1Qg).
@@ -29,9 +28,9 @@ Is there anyway to argue that Yao Ming doesn’t qualify as a contributor to bas
 In an act of humility, Yao withdrew his name from consideration to the Hall of Fame.
 
 > August 31st, 2011
-
+>
 > (Yao’s agent) indicated that Yao has great respect for the institution and equal respect for those elected before his consideration. He just feels that it’s too soon to be considered as a contributor.
-
+>
 > Via [The Associated Press](https://sports.yahoo.com/nba/blog/ball_dont_lie/post/because-hes-that-big-yao-ming-withdraws-his-name-from-early-hall-of-fame-consideration?urn=nba,wp8035)
 
 Though there is no doubt in my mind about Yao’s status as a contributor, I believe his request was the right thing to do. Yao demonstrates his respect for the game and for those who came before him. It is something we’ve come to expect from Yao Ming; well spoken and tactful.
