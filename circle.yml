@@ -9,9 +9,3 @@ dependencies:
 test:
   post:
     - bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external
-
-deployment:
-  prod:
-    branch: master
-    commands:
-      - rsync -va --delete ./_site username@my-website:/var/html
