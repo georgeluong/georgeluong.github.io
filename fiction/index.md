@@ -8,7 +8,7 @@ search_omit: true
 
 When inspiration strikes, the finished products will be added here.
 
-# Latest
+# *Archive*
 
 <ul class="post-list">
 {% for post in site.categories.fiction %}
