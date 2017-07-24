@@ -9,8 +9,9 @@ image:
   feature:
 date: 2014-11-28T22:20:18-08:00
 ---
-From the prompt "[You volunteer to be the first human to test time travel, only going an hour forward in time. When you leave the travel pod, however, all humans on earth are gone](https://www.reddit.com/r/WritingPrompts/comments/2nm2k9/wp_you_volunteer_to_be_the_first_human_to_test/)"
+Prompt: "[You volunteer to be the first human to test time travel, only going an hour forward in time. When you leave the travel pod, however, all humans on earth are gone](https://www.reddit.com/r/WritingPrompts/comments/2nm2k9/wp_you_volunteer_to_be_the_first_human_to_test/)"
 
+---
 Pain, nausea, confusion, even pleasure - it was as if every sensation he had ever experienced all surged at once. His head was spinning. His insides were on fire. His stomach spasmed and, moments later, the contents of it came out onto the floor. With a quivering arm, he wiped the sweat from his brow, and then the vomit from the corners of his mouth.
 
 Exhaustion.
