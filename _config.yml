@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Broken Fixes
 locale: en_US
-description: Describe your website here.
+description: I fix things, which I probably broke, while trying to fix other things.
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: https://georgeluong.com
 
 # Jekyll configuration
 
@@ -36,16 +36,16 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: George Luong
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: luonggeorge@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: georgeluong
   facebook: #username
-  github: #username
+  github: georgeluong
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  linkedin: george-luong-2931a830
+  instagram: luonggeorge
   flickr: #username
   tumblr: #username
   pinterest: #username

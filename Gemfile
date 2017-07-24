@@ -4,3 +4,6 @@ gem "jekyll"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "jekyll-feed"
+gem "octopress"
+gem "github-pages"
+gem 'html-proofer'
