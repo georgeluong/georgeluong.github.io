@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Writing Prompt, Nov 28th 2014"
+title: "The Chrononaut"
 modified: 2017-07-23T21:23:11-08:00
 categories: fiction
 excerpt:
