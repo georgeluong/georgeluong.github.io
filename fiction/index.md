@@ -4,7 +4,7 @@ title: Fiction...
 excerpt: "An archive of stories/works by George, sorted by date."
 search_omit: true
 ---
-...is a collection of fictional works by me. Though I don't practice the craft enough, I do enjoy writing. The [*WritingPrompts* subreddit](https://reddit.com/r/WritingPrompts) is a great way to challenge myself and exercise my creative muscles - I suspect most of the posts that end up here will be responses to prompts from there.
+...is a collection of fictional works by me. Though I don't practice the craft enough, I do enjoy writing. The [*WritingPrompts*](https://reddit.com/r/WritingPrompts) subreddit is a great way to challenge myself and exercise my creative muscles - I suspect most of the posts that end up here will be responses to prompts from there.
 
 When inspiration strikes, the finished products will be added here.
 
