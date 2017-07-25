@@ -42,6 +42,7 @@ Using the pod as a crutch, he rose to one knee. Still blinded and confused, it t
 Panic began to set in as he gazed back out on the horizon of the vast, endless desert.
 
 “...Where the hell am I...?”
+
 ---
 > Prompt:
 > "[You volunteer to be the first human to test time travel, only going an hour forward in time. When you leave the travel pod, however, all humans on earth are gone](https://www.reddit.com/r/WritingPrompts/comments/2nm2k9/wp_you_volunteer_to_be_the_first_human_to_test/)"
