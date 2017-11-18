@@ -19,7 +19,7 @@ Peace at last.
 
 His eyes shot open. His lungs screamed for air as he gasped. He felt relief with each gulp of oxygen. His head still throbbed, but his thoughts were clearing. He didn’t know how long he was out, but the involuntary sleep seemed to help his body acclimate. It must have been only a few seconds.
 
-He undid the restraints, and reached into his pocket to grab a folded up piece of paper. He closed his eyes and drew upon his memory to recite a set of rehearsed facts. Things like his name, his wife, his son, and his birthday were among the script. Perhaps most importantly, he recited every word of the mission statement. Legacy and glory awaited him, but that wasn’t why he volunteered. At least, those weren’t the only reasons.
+He undid the restraints, and reached into his pocket to grab a folded up piece of paper. He closed his eyes and drew upon his memory to recite a set of rehearsed facts. Things like his name, his wife, his son, and his birthday were among the script. Perhaps most importantly, he recited every word of the mission statement. A large sum of money awaited him at the end of this experiment, but that wasn’t why he volunteered. At least, it wasn't the only reason.
 
 His motives were more selfish. Against his family’s wishes, he couldn’t pass up this opportunity. It was something he’d dreamed about since boyhood. He was eager to enroll in the program, and honored to be the first one chosen.
 
