@@ -1,12 +1,7 @@
 ---
 layout: page
 title: About Me
-excerpt: ""
+excerpt: "whoami"
 modified: 2017-07-23T17:30:38.564948-08:00
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-
-# Coming soon
+Visibility Operations Engineer at [Slack](slack.com). Previously from Storage Operations at [Box](box.com). UC San Diego alumni (BS in Human Biology). Bay Area native. Learning. Failing. Learning more.
