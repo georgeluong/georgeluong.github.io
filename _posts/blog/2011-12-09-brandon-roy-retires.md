@@ -4,6 +4,7 @@ title: "Brandon Roy To Retire"
 modified:
 categories: blog
 excerpt:
+search_omit: false
 tags: [nba, basketball]
 image:
   feature: brandonroy.jpg

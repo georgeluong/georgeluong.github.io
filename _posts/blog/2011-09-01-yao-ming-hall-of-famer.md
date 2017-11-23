@@ -3,6 +3,7 @@ layout: post
 title: "Yao Ming: Hall Of Famer?"
 modified:
 categories: blog
+search_omit: false
 excerpt:
 tags: [nba, basketball]
 image:
