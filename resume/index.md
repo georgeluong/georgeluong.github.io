@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resumé
+title: Résumé
 excerpt: "Experiences"
 search_omit: false
 ---
