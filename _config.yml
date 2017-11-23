@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Broken Fixes
+title: George Luong
 locale: en_US
-description: I fix things, which I probably broke, while trying to fix other things.
+description: 
 logo: site-logo.png
 search: true
 url: https://georgeluong.com
