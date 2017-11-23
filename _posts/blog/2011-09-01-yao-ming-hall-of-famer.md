@@ -6,7 +6,9 @@ categories: blog
 excerpt:
 tags: [nba, basketball]
 image:
-  feature:
+  feature: yaoming.jpg
+  credit: Glenn James/NBAE via Getty Images
+
 date: 2011-09-01T08:08:50-08:00
 ---
 <figure>
