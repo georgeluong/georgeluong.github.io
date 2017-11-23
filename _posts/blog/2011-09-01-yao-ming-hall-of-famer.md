@@ -7,8 +7,6 @@ excerpt:
 tags: [nba, basketball]
 image:
   feature: yaoming.jpg
-  credit: Glenn James/NBAE via Getty Images
-
 date: 2011-09-01T08:08:50-08:00
 ---
 As you may know, Yao Ming [announced his retirement](http://www.espn.com/nba/news/story?id=6749511) earlier this summer, ending his nine season career in the NBA. Though [immensely talented and gifted](https://www.youtube.com/watch?v=htm7b_saqcs), his body simply could not withstand the rigors of the needlessly long NBA season.
