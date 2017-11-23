@@ -27,7 +27,7 @@ In an act of humility, Yao withdrew his name from consideration to the Hall of F
 >
 > (Yao’s agent) indicated that Yao has great respect for the institution and equal respect for those elected before his consideration. He just feels that it’s too soon to be considered as a contributor.
 >
-> Via [The Associated Press](https://sports.yahoo.com/nba/blog/ball_dont_lie/post/because-hes-that-big-yao-ming-withdraws-his-name-from-early-hall-of-fame-consideration?urn=nba,wp8035)
+> via [The Associated Press](https://sports.yahoo.com/nba/blog/ball_dont_lie/post/because-hes-that-big-yao-ming-withdraws-his-name-from-early-hall-of-fame-consideration?urn=nba,wp8035)
 
 Though there is no doubt in my mind about Yao’s status as a contributor, I believe his request was the right thing to do. Yao demonstrates his respect for the game and for those who came before him. It is something we’ve come to expect from Yao Ming; well spoken and tactful.
 
