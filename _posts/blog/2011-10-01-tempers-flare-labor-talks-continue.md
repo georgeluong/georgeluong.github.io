@@ -31,6 +31,6 @@ The All-Star cast has been criticized for not being as involved in the earlier d
 
 Luckily, cooler heads prevailed. Billy Hunter saved the day. If the players walked out of the meeting, I’m sure the owners would feel disrespected and, perhaps more damaging, lose faith in David Stern’s ability to mediate the conflict. Broussard mentioned that Stern’s comment was referring to all players, and Wade defended his ilk. Now, the tumultuous moment has become a rallying point for NBA players.
 
-There is also a meeting today, October 1st. However, the marquee players will not be on the roll because they’re attending Chris Paul’s charity game …which makes me wonder if they just stopped by the meeting since they were in town.
+There is also a meeting today, October 1st. However, the marquee players will not be on the roll because they’re attending Chris Paul’s charity game… which makes me wonder if they just stopped by the meeting since they were in town.
 
 There is still time to save the November 1st start to the season. Let’s just hope it isn’t squandered.
