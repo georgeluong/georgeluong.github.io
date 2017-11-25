@@ -10,7 +10,7 @@ image:
 date: 2011-09-23T08:08:50-08:00
 ---
 <figure>
-    <img src="/images/deadlocked.jpg" alt="image">
+    <img src="/images/deadlocked.jpeg" alt="image">
     <figcaption>NBA Players Association Executive Director Billy Hunt meets with NBA Comissioner David Stern.</figcaption>
 </figure>
 
