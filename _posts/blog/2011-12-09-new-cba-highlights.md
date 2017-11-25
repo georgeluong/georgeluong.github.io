@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yao Ming: Hall Of Famer?"
+title: "New CBA Highlights"
 modified:
 categories: blog
 search_omit: false
