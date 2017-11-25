@@ -35,12 +35,14 @@ In the previous CBA, teams had to budget their team to stay under the salary cap
 
 In the current CBA, the NBA wants to restore what it calls “competitive balance.” Competitive balance is the league’s method to prevent the big market teams from having an unfair advantage over the small market teams. Now, if a team goes over the tax threshold, they pay a steeper tax according to the level of the infraction.
 
-|         Over            |              Tax            |
-| :-----------------------| :-------------------------: |
+
+|           Over          |             Tax             |
+|:-----------------------:|:---------------------------:|
 | $0-$5 million           | $1.50 for every dollar over |
 | $5 million-$10 million  | $1.75 for every dollar over |
 | $10 million-$15 million | $2.50 for every dollar over |
 | $15 million-$20 million | $3.25 for every dollar over |
+
 Does this new luxury tax help improve competitive balance? Yes, to an extent. However, I don’t believe its impact will be great. Only seven out of thirty teams had to pay the tax last year. No one likes spending more money than required. Even without the new tax, I think owners will continue to pinch their purses.
 
 ## Extend-and-Trade
