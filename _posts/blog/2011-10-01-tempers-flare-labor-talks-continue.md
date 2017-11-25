@@ -11,6 +11,7 @@ date: 2011-10-01T08:08:50-08:00
 ---
 <figure>
     <img src="/images/davidstern-dwyanewade.jpeg" alt="image">
+    <figcaption><a href="http://www.gettyimages.com/event/all-star-game-95705409#dwyane-wade-of-the-eastern-conference-is-awarded-the-mvp-trophy-by-picture-id96704807" title="Dwyane Wade #3 of the Eastern Conference (R) is awarded the MVP trophy by NBA Commissioner David Stern after the NBA All-Star Game, part of 2010 NBA All-Star Weekend at Cowboys Stadium on February 14, 2010 in Arlington, Texas. The Eastern Conference defeated the Western Conference 141-139 in regulation.">Ronald Martinez via Getty Images</a>.</figcaption>
 </figure>
 The NBA Players Association met with NBA executives and team owners on September 30th in an attempt to resolve the ongoing labor talks. With the opening night of the season quickly approaching, both sides of the disputes are now exhibiting a “sense of urgency.” Even the NBA’s marquee players, namely LeBron James, Dwyane Wade, Kevin Durant, and Carmelo Anthony, were in attendance.
 
