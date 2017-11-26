@@ -10,7 +10,7 @@ image:
 date: 2011-12-09T08:08:50-08:00
 ---
 <figure>
-    <img src="/images/new-cba.jpg" alt="image">
+    <img src="https://app.box.com/shared/static/7hr4792sftan1q9ecipc6a3ouk9qa5su.jpg" alt="David Stern and Billy Hunt">
     <figcaption>The NBA and its Players Association have reached an agreement.</figcaption>
 </figure>
 This article is quite late, but here are some highlights of the new NBA Collective Bargaining Agreement (CBA).

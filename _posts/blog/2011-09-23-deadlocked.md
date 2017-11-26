@@ -10,7 +10,7 @@ image:
 date: 2011-09-23T08:08:50-08:00
 ---
 <figure>
-    <img src="/images/deadlocked.jpeg" alt="image">
+    <img src="https://app.box.com/shared/static/5efopp8uq78u6fwjzmf6j0b2dc1b8qxj.jpeg" alt="David Stern and Billy Hunt">
     <figcaption>NBA Players Association Executive Director Billy Hunt meets with NBA Comissioner David Stern.</figcaption>
 </figure>
 The Players Association and the team owners have met a few times, and these meetings have produced zero results. The NFL labor talks made great strides during its first few meetings, resolving its issues after 18 weeks. We’re approaching week 13 of the NBA lockout, and the only “news” we’ve heard is something along the lines of “another meeting has been scheduled.” Well, this prolonged impasse has forced the NBA to [postpone its training camps and cancel 43 preseason games](http://www.nba.com/2011/news/09/23/nba-cancels-43-preseason-games/).
