@@ -38,7 +38,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: George Luong
   avatar: bio-photo.jpg
-  email: luonggeorge@gmail.com
+  email: 
   disqus-shortname:
   twitter: georgeluong
   facebook: #username
