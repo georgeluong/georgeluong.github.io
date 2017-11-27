@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fiction...
-excerpt: "An archive of stories/works by George, sorted by date."
+excerpt: "A collection of stories and works."
 search_omit: false
 ---
 ...is a collection of fictional works by me. Though I don't practice the craft nearly enough, I do enjoy writing. The [*Writing Prompts*](https://reddit.com/r/WritingPrompts) subreddit is a great way to challenge myself and exercise my creativity - I suspect most of the posts that end up here will be responses to prompts from there.

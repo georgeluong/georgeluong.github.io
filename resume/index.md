@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-excerpt: "Experiences"
+excerpt: "For more information, please visit my [Linkedin](https://www.linkedin.com/in/georgeluong)."
 search_omit: false
 ---
 <figure>
