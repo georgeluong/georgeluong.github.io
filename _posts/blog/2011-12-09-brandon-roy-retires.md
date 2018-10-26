@@ -4,7 +4,6 @@ title: "Brandon Roy To Retire"
 last_modified_at: 2011-12-09T22:17:50-08:00
 categories: blog
 tags:
-  - nba
   - basketball
 image:
   path: images/brandonroy.jpg

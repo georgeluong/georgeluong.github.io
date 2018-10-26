@@ -1,16 +1,15 @@
 ---
 layout: post
 title: "Mr. World Peace"
-modified:
+last_modified_at:
 categories: blog
-search_omit: false
-excerpt:
-tags: [nba, basketball]
+tags:
+  - basketball
 image:
 date: 2011-09-23T08:08:50-08:00
 ---
 <figure>
-    <img src="https://app.box.com/shared/static/se16nb3u4wvmejlvx1qzrllybofjgzqy.png" alt="Metta World Peace">
+    <img src="/images/metta-world-peace.png" alt="Metta World Peace">
 </figure>
 On September 22nd, Mr. World Peace [parted ways](http://lakersblog.latimes.com/lakersblog/2011/09/metta-world-peace-donates-285000-to-charities.html?dlvrit=53297) with $285,000 with several mental health charities as the beneficiaries. This isn’t the first time that World Peace (an apt name, I think) has donated to these organizations. He [auctioned](http://sports.espn.go.com/los-angeles/nba/news/story?id=5597398) off his first (and only) championship ring and gave away to proceeds various groups. And on top of that, he has pledged “[all or some](http://sports.espn.go.com/los-angeles/nba/news/story?id=5901378)” of his 2011-2012 paycheck to help those in need. When asked about his decision, World Peace stated:
 
