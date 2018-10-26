@@ -2,5 +2,7 @@
 layout: page
 title: Résumé
 ---
-For more information, please visit my [Linkedin](https://www.linkedin.com/in/georgeluong).
-<img src="/images/george.png">
+<object data="/pdfs/resume.pdf" type="application/pdf" width="100%" height="800px">
+  <p> It appears you don't have a PDF plugin for this browser. Please visit <a href="https://www.linkedin.com/in/georgeluong">my Linkedin profile,/a> for more information</p>
+</object>
+</div>
