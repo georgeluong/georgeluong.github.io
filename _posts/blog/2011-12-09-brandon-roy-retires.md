@@ -1,15 +1,14 @@
 ---
 layout: post
 title: "Brandon Roy To Retire"
-modified:
+last_modified_at: 2011-12-09T22:17:50-08:00
 categories: blog
-excerpt:
-search_omit: false
-tags: [nba, basketball]
+tags:
+  - nba
+  - basketball
 image:
-  feature: brandonroy.jpg
-  credit: Noah Graham via Getty Images
-date: 2011-12-09T22:17:50-08:00
+  path: images/brandonroy.jpg
+  caption: "Noah Graham via Getty Images"
 ---
 [Chris Broussard](https://twitter.com/Chris_Broussard/status/145156200416288769) of ESPN: The Magazine reports that Brandon Roy is set to retire from basketball as early as today due to a degenerative knee condition.
 

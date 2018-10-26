@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "The Chrononaut"
-modified: 2017-11-17T19:00:00-08:00
+last_modified_at: 2017-11-17T19:00:00-08:00
 categories: fiction
 search_omit: false
-excerpt:
 tags: [writing prompts]
 image:
-  feature:
+  path: images/yoel-peterson-1105776-unsplash.jpg
+  caption: "[Yoel Peterson](https://unsplash.com/@yoelpeterson?utm_medium=referral&amp;utm_campaign=photographer-credit)"
 date: 2014-11-28T22:20:18-08:00
 ---
 Pain, nausea, confusion, even pleasure - it were as if every sensation he had ever experienced all surged at once. His head was spinning. His insides were on fire. His stomach spasmed and, moments later, its contents were on the floor. With a quivering arm, he wiped the sweat from his brow, and the vomit from the corners of his mouth.
