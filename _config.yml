@@ -18,7 +18,7 @@ theme: jekyll-theme-so-simple
 locale: en-US
 title: George Luong
 description: 
-baseurl: # the subpath of your site, e.g. "/blog"
+baseurl: / # the subpath of your site, e.g. "/blog"
 url: https://georgeluong.com
 logo: images/site-logo.png
 date_format: "%B %-d, %Y"
