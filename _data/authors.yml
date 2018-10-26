@@ -5,5 +5,5 @@ George Luong:
   twitter: "@georgeluong"
   links:
     - title: Twitter
-    url: https://twitter.com/georgeluong
-    icon: fab fa-twitter-square
+      url: https://twitter.com/georgeluong
+      icon: fab fa-twitter-square
