@@ -98,6 +98,9 @@ author:
 
 # Footer Links
 footer_links:
+  - title: Linkedin
+    url: https://www.linkedin.com/in/georgeluong
+    icon: fas fa-linkedin-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
