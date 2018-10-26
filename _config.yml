@@ -100,7 +100,13 @@ author:
 footer_links:
   - title: Linkedin
     url: https://www.linkedin.com/in/georgeluong
-    icon: fa fa-linkedin-square
+    icon: fab fa-linkedin
+  - title: Instagram
+    url: https://www.instagram.com/luonggeorge
+    icon: fab fa-instagram
+  - title: Twitter
+    url: https://twitter.com/georgeluong
+    icon: fab fa-twitter
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
