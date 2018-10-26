@@ -100,7 +100,7 @@ author:
 footer_links:
   - title: Linkedin
     url: https://www.linkedin.com/in/georgeluong
-    icon: fas fa-linkedin-square
+    icon: fa fa-linkedin-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
