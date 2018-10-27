@@ -16,8 +16,8 @@
 theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: ""
-description: 
+title: "George Luong"
+description:
 baseurl: / # the subpath of your site, e.g. "/blog"
 url: https://georgeluong.com
 logo: images/site-logo.png
