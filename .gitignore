@@ -1,4 +1,5 @@
 _asset_bundler_cache
+_deploy.yml
 _site
 .bundle
 .DS_Store

@@ -2,4 +2,5 @@ source "https://rubygems.org"
 gemspec
 
 gem 'html-proofer'
-gem 'github-pages', group: :jekyll_plugins
+gem 'octopress', '~> 3.0'
+gem 'aws-sdk-v1'
