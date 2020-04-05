@@ -8,11 +8,6 @@
 # cases it should duplicate the execution of your original 1.0 config.
 version: 2
 jobs:
-  deploy-job:
-    steps:
-      - add_ssh_keys:
-        fingerprints:
-          - "ce:45:ff:ba:c8:1c:e8:88:20:17:91:45:c7:a1:54:ef"
   build:
     working_directory: ~/georgeluong/georgeluong.github.io
     parallelism: 1
@@ -39,6 +34,10 @@ jobs:
     #   If you break your build into multiple jobs with workflows, you will probably want to do the parts of this that are relevant in each
     # The following `checkout` command checks out your code to your working directory. In 1.0 we did this implicitly. In 2.0 you can choose where in the course of a job your code should be checked out.
     - checkout
+      steps:
+        - add_ssh_keys:
+          fingerprints:
+            - "ce:45:ff:ba:c8:1c:e8:88:20:17:91:45:c7:a1:54:ef"
     # Prepare for artifact and test results  collection equivalent to how it was done on 1.0.
     # In many cases you can simplify this from what is generated here.
     # 'See docs on artifact collection here https://circleci.com/docs/2.0/artifacts/'
