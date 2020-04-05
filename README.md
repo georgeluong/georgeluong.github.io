@@ -31,7 +31,10 @@ bundle exec jekyll server -H 127.0.0.1
 
 ## Compiling and building the site
 1. This should happen once the changes are merged to `master` in Github
-1. Jekyll builds the site, and we're using S3 to host the static assets.
+1. Jekyll builds the site, and we're using S3 to host the static assets (uploaded via Octopress).
+```bash
+bundle exec jekyll build
+```
 1. We use Octopress to deploy the site (configs stored in `_deploy.yml` -- this is in gitignore so we don't leak credentials)
 ```bash
 bundle exec octopress deploy
