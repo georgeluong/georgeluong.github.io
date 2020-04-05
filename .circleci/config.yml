@@ -8,6 +8,11 @@
 # cases it should duplicate the execution of your original 1.0 config.
 version: 2
 jobs:
+  deploy-job:
+    steps:
+      - add_ssh_keys:
+        fingerprints:
+          - "ce:45:ff:ba:c8:1c:e8:88:20:17:91:45:c7:a1:54:ef"
   build:
     working_directory: ~/georgeluong/georgeluong.github.io
     parallelism: 1
