@@ -9,7 +9,7 @@ catagories: blog|fiction
 tags:
   - <tag>
 image:
-  [path: images/filename.jpg]
+  path: images/filename.jpg # this is optional
 last_modified_at: YYYY-MM-DDTHH:MM:SS-8:00
 (for example    : 2020-01-01T21:13:00-8:00)
 ```
