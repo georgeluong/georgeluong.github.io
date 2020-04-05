@@ -34,5 +34,5 @@ bundle exec jekyll server -H 127.0.0.1
 1. Jekyll builds the site, and we're using S3 to host the static assets.
 1. We use Octopress to deploy the site (configs stored in `_deploy.yml` -- this is in gitignore so we don't leak credentials)
 ```bash
-octopress deploy
+bundle exec octopress deploy
 ```
